@@ -8,7 +8,7 @@ void setup() {
 void loop() {
   // put your main code here, to run repeatedly:
     if(digitalRead(D0)){ //ถ้ากดปุ่ม(อ่านค่าจากขา D0)
-        digitalWrite(D1, HIGH); ไฟจากขาD1 ติด
+        digitalWrite(D1, HIGH); //ไฟจากขาD1 ติด
     }else{ //ไม่ได้กดปุ่ม
         digitalWrite(D1, LOW); //ไฟดับ
     }
