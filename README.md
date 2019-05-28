@@ -1,7 +1,7 @@
 # Button :smiley:
 - ปุ่มกดเป็นเหมือนสะพานไฟที่จะกันไฟว่าจะให้ผ่าน หรือ ไม่ให้ผ่าน
 ![](https://www.gravitechthai.com/upload/product/real/pic-269-3139323352.jpg)
-
+# หลักการต่อ
 ## Pull up และ Pull dowm :bulb:
 ![](http://itbakery.net/wp-content/uploads/2018/03/pullupdown.png)
 
